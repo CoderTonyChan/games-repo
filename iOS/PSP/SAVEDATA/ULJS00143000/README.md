@@ -11,4 +11,4 @@ http://www.xiaoji001.com/game/9101001b5.html
 
 ## 存档
 ### 机战AP 真唱版 第一次分流 去G高达路线 16话
-
+https://github.com/CTLifeHand/games-repo/blob/master/iOS/Save%20States/9101001/机战AP%20真唱版%20第一次分流%20去G高达路线%2016话.ppst
