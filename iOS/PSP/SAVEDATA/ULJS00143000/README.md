@@ -10,6 +10,6 @@ http://www.xiaoji001.com/game/9101001b5.html
 
 
 ## 存档
-|存档|
-|:--:|
-|[机战AP 真唱版 第一次分流 去G高达路线 16话](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/iOS/Save%20States/9101001/机战AP%20真唱版%20第一次分流%20去G高达路线%2016话.ppst)|
+|图片|存档
+|:--:|:--:|
+|![img](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/iOS/Save%20States/9101001/机战AP%20真唱版%20第一次分流%20去G高达路线%2016话.jpg)|[机战AP 真唱版 第一次分流 去G高达路线 16话](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/iOS/Save%20States/9101001/机战AP%20真唱版%20第一次分流%20去G高达路线%2016话.ppst)|
