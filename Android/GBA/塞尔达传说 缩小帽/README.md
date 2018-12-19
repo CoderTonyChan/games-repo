@@ -9,3 +9,10 @@
 ![github-raw](https://raw.githubusercontent.com/CoderTonyChan/games-images-backup/master/GBA/塞尔达传说%20缩小帽/1100265.s000.png)
 
 ![github-raw](https://raw.githubusercontent.com/CoderTonyChan/games-images-backup/master/GBA/塞尔达传说%20缩小帽/1100265.s001.png)
+
+
+
+## 存档
+|图片|存档
+|:--:|:--:|
+|![img](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/Android/GBA/塞尔达传说%20缩小帽/塞尔达传说%20缩小帽%20第一个迷宫-1100265.000.png)|[塞尔达传说 缩小帽 第一个迷宫](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/Android/GBA/塞尔达传说%20缩小帽/塞尔达传说%20缩小帽%20第一个迷宫-11002650.sgm)|
