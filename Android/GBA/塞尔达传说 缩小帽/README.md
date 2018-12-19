@@ -6,6 +6,6 @@
 
 ## 游戏截图
 
-![github-raw](https://raw.githubusercontent.com/CTLifeHand/games-images-backup/master/GBA/塞尔达传说%20缩小帽/1100265.s000.png)
+![github-raw](https://raw.githubusercontent.com/CoderTonyChan/games-images-backup/master/GBA/塞尔达传说%20缩小帽/1100265.s000.png)
 
-![github-raw](https://raw.githubusercontent.com/CTLifeHand/games-images-backup/master/GBA/塞尔达传说%20缩小帽/1100265.s001.png)
+![github-raw](https://raw.githubusercontent.com/CoderTonyChan/games-images-backup/master/GBA/塞尔达传说%20缩小帽/1100265.s001.png)
