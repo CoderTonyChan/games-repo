@@ -1,0 +1,23 @@
+#Infinite Energy
+80141A04 2020
+#Infinite Lives
+801722BC 0200
+#Infinite Lightning Web
+80141A50 3030
+#Infinite Frost Tower & Infinite Soul Body
+80141A52 3030
+#Infinite Rising Fire & Infinite Ground Hunter
+80141A54 3030
+#Infinite Aiming Laser & Infinite Double Cyclone
+80141A56 3030
+#Infinite Twin Slasher
+80141A58 3030
+#Have All Weapons
+80141A60 FF00
+80141A62 FF03
+#Have Nova Strike
+80141A4E FF00
+801722BE 1F29
+#Invincible
+80141A08 0100
+
