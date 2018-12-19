@@ -15,6 +15,6 @@
 |![img](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/Android/PS/洛克人X4/洛克人X4%20完美黑Zero-SLPS_009.02.002.png)|[洛克人X4 完美黑Zero](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/Android/PS/洛克人X4/洛克人X4%20完美黑Zero-SLPS_009.02.002)|
 |![img](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/Android/PS/洛克人X4/洛克人X4%20完美黑X-SLPS_009.02.001.png)|[洛克人X4 完美黑X](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/Android/PS/洛克人X4/洛克人X4%20完美黑X-SLPS_009.02.001)|
 |![img](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/Android/PS/洛克人X4/洛克人X4%20黑X%20初始-SLPS_009.02.005.png)|[洛克人X4 黑X 初始](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/Android/PS/洛克人X4/洛克人X4%20黑X%20初始-SLPS_009.02.005)|
-|![img](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/Android/PS/洛克人X4/洛克人X4%20黑X%20初始-SLPS_009.02.002.png)|[洛克人X4 黑Zero 初始](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/Android/PS/洛克人X4/洛克人X4%20黑X%20初始-SLPS_009.02.002)|
+|![img](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/Android/PS/洛克人X4/洛克人X4%20黑Zero%20初始-SLPS_009.02.002.png)|[洛克人X4 黑Zero 初始](https://raw.githubusercontent.com/CoderTonyChan/games-repo/master/Android/PS/洛克人X4/洛克人X4%20黑Zero%20初始-SLPS_009.02.002)|
 
 
